@@ -1,0 +1,12 @@
+{
+  "name": "define-plugin-and-dotenv-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ojisan-toybox/define-plugin-and-dotenv-webpack.git",
+  "author": "sadness_ojisan <sadness.ojisan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
